@@ -1,0 +1,106 @@
+Rider Support and Issue Resolution Policy
+
+Overview
+
+The ride-hailing platform provides support services to help riders resolve issues that may occur before, during, or after a trip. Rider complaints are reviewed using trip data, payment records, and platform policies to ensure fair and accurate resolutions.
+
+Common Rider Issues
+
+1. Incorrect Fare Charges
+
+Riders may report that they were charged more than expected for a trip. Fare differences may occur due to factors such as route changes, waiting time charges, toll fees, or dynamic surge pricing.
+
+When reviewing fare complaints, the support team analyzes:
+• trip receipt and pricing breakdown
+• GPS route data
+• trip duration and distance
+• applicable surge pricing conditions
+• toll or additional charges
+
+If an incorrect charge is identified, the rider may receive a refund or fare adjustment.
+
+2. Driver Behavior Complaints
+
+Riders can report concerns related to driver professionalism or behavior during a trip. Examples include:
+
+• unsafe or reckless driving
+• inappropriate or disrespectful communication
+• harassment or discrimination
+• violation of platform community guidelines
+
+Each report is reviewed and documented in the driver's safety record. Repeated violations may lead to warnings, temporary suspension, or permanent deactivation of the driver account.
+
+3. Trip Cancellation Issues
+
+Cancellation fees may apply when a rider cancels a trip after a driver has already accepted the ride and started traveling toward the pickup location.
+
+Support teams review:
+• driver acceptance time
+• rider cancellation time
+• driver arrival progress
+• platform cancellation policy
+
+If the cancellation fee was applied incorrectly, a refund may be issued.
+
+4. App or Payment Issues
+
+Riders may occasionally experience technical or payment-related issues, including:
+
+• payment failures
+• duplicate charges
+• incomplete trip payments
+• app booking errors
+
+These cases are reviewed using:
+• payment transaction logs
+• payment gateway records
+• trip confirmation data
+• system error logs
+
+If a technical error is confirmed, the rider may receive a refund or credit.
+
+5. Lost Items During Trips
+
+If a rider forgets an item in the vehicle, they can report the lost item through the app's Help or Support section.
+
+The support team will:
+• notify the driver about the reported item
+• attempt to reconnect the rider with the driver
+• arrange communication for item recovery when possible
+
+Recovery of lost items depends on driver availability and the nature of the item.
+
+Support Investigation Process
+
+When a rider submits a complaint or issue report, the support system analyzes multiple data sources, including:
+
+• trip ID and trip history
+• GPS route and trip timeline
+• driver activity logs
+• fare calculation records
+• payment transaction data
+• rider complaint details
+
+Support agents review the available data to determine whether platform policies were followed and what resolution should be applied.
+
+Refund and Compensation Policy
+
+Refunds or compensation may be issued in cases such as:
+
+• incorrect fare calculation
+• technical or system errors
+• driver misconduct or policy violations
+• incorrect cancellation fees
+• duplicate payment charges
+
+Refunds may be processed back to the rider's original payment method or issued as platform credits depending on the situation.
+
+Safety Reporting
+
+Riders can report safety concerns during or after a trip through the in-app safety tools or the support section.
+
+Serious safety incidents are escalated to the platform’s Trust and Safety team for further investigation and possible enforcement actions.
+
+Continuous Support Improvement
+
+The platform continuously monitors rider feedback, complaint trends, and support performance to improve the overall rider experience and ensure fair resolution of issues.

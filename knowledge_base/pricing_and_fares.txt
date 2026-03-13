@@ -1,0 +1,76 @@
+Pricing and Fare Calculation Policy
+
+Overview
+
+Ride fares on the platform are calculated automatically using a combination of trip distance, travel time, base fare, and dynamic pricing adjustments. The pricing system ensures transparent and consistent fare calculations for both riders and drivers.
+
+Fare Components
+
+Each completed trip fare may include the following components:
+
+Base Fare
+A base fare is charged at the beginning of every trip. This amount represents the starting cost of providing the ride service. Base fares may vary depending on the ride category, city, and vehicle type.
+
+Distance-Based Charges
+Distance charges are calculated based on the total distance traveled during the trip. Longer trips result in higher distance-based charges.
+
+Time-Based Charges
+Time charges apply based on the duration of the trip. These charges account for traffic conditions, slow movement, waiting time, or route changes during the ride.
+
+Surge Pricing
+
+During periods of high rider demand or limited driver availability, surge pricing may be applied. Surge pricing temporarily increases fares using a multiplier to encourage more drivers to accept ride requests.
+
+The surge multiplier is shown to riders before confirming a ride request.
+
+Tolls and Additional Fees
+
+Trips that include toll roads may have toll charges added to the final fare. Additional fees may also apply depending on local regulations, airport pickup rules, or service-specific surcharges.
+
+Cancellation Fees
+
+A cancellation fee may be charged when a rider cancels a trip after a driver has already accepted the request and is traveling toward the pickup location.
+
+The cancellation fee compensates the driver for time and travel expenses.
+
+Waiting Time Charges
+
+If a driver arrives at the pickup location and the rider delays the start of the trip beyond the allowed waiting period, waiting time charges may apply. These charges compensate the driver for time spent waiting.
+
+Fare Adjustments
+
+Fare adjustments may occur in certain situations, including:
+
+• route changes requested by the rider  
+• additional stops added during the trip  
+• extended waiting time  
+• trip corrections due to GPS route updates  
+
+The pricing system automatically recalculates the fare when these changes occur.
+
+Fare Dispute Investigation
+
+If a rider or driver disputes a fare calculation, the support system reviews several data points, including:
+
+• trip ID and trip receipt  
+• GPS route and trip timeline  
+• distance and duration calculations  
+• surge pricing conditions during the trip  
+• toll charges or additional fees  
+
+Support agents analyze the data to determine whether the fare was calculated correctly.
+
+Refund Policy
+
+Refunds or fare adjustments may be issued if an investigation confirms that:
+
+• the fare calculation was incorrect  
+• the rider was charged due to a technical or system error  
+• a trip was incorrectly marked as completed  
+• a cancellation fee was applied incorrectly  
+
+Refunds may be processed back to the rider’s original payment method or issued as platform credits depending on the case.
+
+Pricing Transparency
+
+Riders are shown an estimated fare before confirming a trip request. Final fares may vary depending on route changes, waiting time, tolls, or surge pricing conditions.

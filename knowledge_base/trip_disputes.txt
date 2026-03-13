@@ -1,0 +1,62 @@
+Trip Dispute Investigation Policy
+
+Overview
+
+Trip disputes occur when riders or drivers question the accuracy of trip details, fare calculations, or trip events recorded during a ride. The platform provides a structured investigation process to review these disputes and ensure fair outcomes.
+
+Common Types of Trip Disputes
+
+Trip disputes may arise for several reasons, including:
+
+• fare overcharges or incorrect fare calculations
+• incorrect or inefficient routes taken during the trip
+• unexpected cancellation fees
+• excessive waiting time charges
+• incorrect trip completion records
+• technical issues affecting trip tracking
+
+Reporting a Trip Dispute
+
+Riders and drivers can report trip disputes through the support or help section of the platform’s mobile application. When submitting a dispute, users should provide the trip ID and a clear explanation of the issue.
+
+Providing accurate details helps the support team investigate the dispute more efficiently.
+
+Trip Investigation Process
+
+When a trip dispute is reported, the support system reviews multiple data sources to verify the accuracy of the trip record.
+
+Support teams typically analyze the following information:
+
+• GPS trip route and trip timeline
+• driver and rider activity timestamps
+• fare calculation breakdown
+• surge pricing conditions during the trip
+• cancellation logs and request timing
+• waiting time records
+• trip receipt and payment transaction details
+
+These data sources help determine whether the trip followed the expected route and whether the fare was calculated correctly.
+
+Possible Investigation Outcomes
+
+After reviewing the trip data, the support team may take one or more of the following actions:
+
+• confirm that the trip details were accurate
+• issue a refund or fare adjustment to the rider
+• provide additional payment adjustment to the driver
+• correct trip records in the system
+• provide clarification about pricing or route changes
+
+Refund and Adjustment Policy
+
+If an error is identified during the investigation, the platform may provide compensation or corrections. This may include:
+
+• partial or full fare refunds to riders
+• adjustments to driver earnings
+• removal of incorrect cancellation or waiting charges
+
+Refunds may be processed back to the rider’s original payment method or issued as platform credits.
+
+Transparency and Fair Resolution
+
+The platform aims to resolve disputes fairly by using objective trip data such as GPS routes, timestamps, and pricing logs. Both riders and drivers are notified of the investigation outcome through the app once the review is completed.

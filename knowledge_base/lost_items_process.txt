@@ -1,0 +1,77 @@
+Lost Item Recovery Policy
+
+Overview
+
+Riders may occasionally leave personal belongings inside a driver’s vehicle after a trip is completed. The platform provides a structured lost item recovery process designed to help reconnect riders with drivers and increase the likelihood of recovering misplaced items.
+
+Common lost items reported by riders include:
+• mobile phones
+• wallets
+• bags or backpacks
+• keys
+• headphones or electronic devices
+• personal documents
+
+Reporting a Lost Item
+
+If a rider realizes that an item such as a phone, wallet, or bag was left in the vehicle, the rider should report the lost item through the Help or Support section of the rider application.
+
+When submitting a lost item report, riders should provide the following information:
+
+• trip ID or trip details
+• date and time of the trip
+• a clear description of the lost item
+• the approximate location in the vehicle where the item may have been left
+
+Providing accurate information helps the support system identify the correct trip and notify the driver more quickly.
+
+Driver Notification
+
+After a lost item report is submitted, the platform automatically notifies the driver who completed the trip.
+
+The driver is asked to:
+
+• check the vehicle for the reported item
+• confirm whether the item has been located
+• respond through the driver application
+
+If the item is found, the driver may communicate with the rider through the platform to arrange the return of the item.
+
+Item Return Coordination
+
+If the driver locates the lost item, the rider and driver may coordinate a safe time and location for returning the item.
+
+The return process may include:
+
+• confirming the item with the rider
+• arranging a pickup or meeting location
+• returning the item to the rider
+
+In some regions, a return fee may apply to compensate the driver for time and travel involved in returning the item.
+
+Items Not Found
+
+If the driver cannot locate the reported item, the platform informs the rider that the item was not found in the vehicle.
+
+In this situation, riders are encouraged to:
+
+• check other locations visited during the trip
+• verify personal belongings before submitting additional reports
+• contact support again if new information becomes available
+
+Support Investigation
+
+Support agents may assist riders by reviewing trip records and contacting the driver directly when necessary.
+
+During an investigation, support teams may review:
+
+• trip history and trip details
+• driver responses to the lost item report
+• communication logs between rider and driver
+• driver activity after the trip
+
+Important Notice
+
+While the platform makes reasonable efforts to help recover lost items, recovery cannot be guaranteed. Drivers may complete additional trips after the original ride, and items may not always remain in the vehicle.
+
+Riders are strongly encouraged to report lost items as soon as possible after the trip. Faster reporting significantly increases the chances of recovering the item.

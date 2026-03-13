@@ -1,0 +1,80 @@
+Driver Payment and Earnings Policy
+
+Overview
+
+Drivers earn income by completing trips through the ride-hailing platform. Driver earnings are calculated automatically by the platform based on multiple trip-related factors and pricing policies.
+
+The platform ensures transparent payment calculations and provides drivers with access to trip receipts and earnings summaries through the driver app.
+
+Driver Earnings Calculation
+
+Driver earnings for each completed trip are calculated using the following components:
+
+• Base fare – a fixed starting amount for every trip
+• Distance fare – payment based on the distance traveled
+• Time fare – payment based on the total trip duration
+• Surge pricing multiplier – additional earnings during periods of high demand
+• Tolls or additional charges when applicable
+
+The final trip fare is calculated automatically by the platform’s pricing system.
+
+Driver Payout Schedule
+
+Driver payments are typically processed on a weekly basis through the driver's registered payout method. Depending on the region, drivers may also have access to instant payout options that allow them to withdraw earnings earlier.
+
+The driver earnings summary in the driver app provides:
+
+• completed trip earnings
+• surge bonuses
+• rider tips
+• adjustments or corrections
+• total weekly earnings
+
+Common Driver Payment Issues
+
+Drivers may occasionally report issues related to trip payments or earnings calculations. Common issues include:
+
+1. Missing Trip Payments  
+A driver may believe that payment for a completed trip was not recorded.
+
+2. Incorrect Surge Calculation  
+Drivers may report that surge pricing was not applied correctly during high-demand periods.
+
+3. Delayed Payouts  
+Drivers may experience delays in receiving weekly payouts due to payment processing or banking issues.
+
+4. Rider Cancellation Compensation  
+Drivers may be eligible for compensation if a rider cancels a trip after the driver has already traveled toward the pickup location.
+
+Payment Investigation Process
+
+When a driver reports a payment issue, the support system reviews several sources of information, including:
+
+• trip ID and trip details
+• GPS trip route and timeline
+• driver activity logs
+• fare calculation records
+• surge pricing data during the trip
+• rider cancellation timestamps
+
+Support agents analyze this data to verify whether the earnings were calculated correctly.
+
+Possible Resolutions
+
+Depending on the investigation results, the platform may take actions such as:
+
+• correcting fare calculations
+• issuing payment adjustments
+• providing cancellation compensation
+• resolving payout delays
+• updating driver earnings records
+
+Drivers are notified through the driver app once the payment review is completed.
+
+Driver Support Access
+
+Drivers can report payment or earnings issues through the driver support portal available in the driver app. Support agents review submitted complaints and respond with the outcome of the investigation.
+
+Continuous Improvement
+
+The platform continuously reviews payment systems and driver feedback to improve payment transparency and ensure fair earnings for all drivers.
